@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164642023729",
+    "project_id": "meetapp-daf12",
+    "storage_bucket": "meetapp-daf12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164642023729:android:0b9c5a910a786603f5e810",
+        "android_client_info": {
+          "package_name": "com.example.meet_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLDwxwfbEjqvuqM_Tynua5mfRxrPn0g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
